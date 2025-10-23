@@ -1,5 +1,9 @@
+body {
+    background-color: black;
+}
+
 #logotipo{
-    width: 150px;
+    width: 30px;
     height: auto;
 }
 
@@ -41,13 +45,13 @@ bottom: 0;
 
 
 .containerrodapé{
-    /* background-color: #7113B9; */
+    background-color: #7113B9;
     color: rgb(13, 99, 125);
    text-align: center;
     
     
 }
 
-/* li{
+li{
  list-style: none;
-} */
+}
